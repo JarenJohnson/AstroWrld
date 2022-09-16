@@ -1,4 +1,24 @@
-p{
-    
+h1{
+    color: azure;
+    position: center;
+    font-family: fantasy;
 }
- 
+img{height: 90px;
+width: 90px;
+float: right;
+}
+
+
+nav{
+    
+    list-style: none;
+    float: right;
+    color:white;
+    font-size: 20px;
+}
+body{
+background-image: url(../Img\ folder/spike.jpg);
+background-size: 30%;
+    background-position: center;
+    background-color: transparent;
+}
