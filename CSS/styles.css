@@ -7,7 +7,11 @@ img{height: 90px;
 width: 90px;
 float: right;
 }
-
+p{
+    color: azure;
+    position: center;
+    font-family: fantasy;
+}
 
 nav{
     
