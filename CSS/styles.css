@@ -3,9 +3,10 @@ h1{
     position: center;
     font-family: fantasy;
 }
-img{height: 90px;
-width: 90px;
-float: right;
+img{
+    height: 80px;
+    width: 80px;
+    float: right;
 }
 p{
     color: azure;
